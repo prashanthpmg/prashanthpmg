@@ -6,7 +6,6 @@ Year of Study: Pre-Final Year (3rd Year)
 Graduation Year:  2026
 CGPA/Percentage: 7.0
 Email: prashanthmshiralagi@gmail.com
-Phone: +91 6361640671 
 LinkedIn: www.linkedin.com/in/prashanth-m-7067322aa
 GitHub/Portfolio:
 
