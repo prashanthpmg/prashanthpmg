@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""https://github.com/prashanthpmg/banner.png.git"" alt="Prashanth M - Banner" width="100%" />
+  <img src="https://github.com/prashanthpmg/prashanthpmg/blob/main/assets/banner.png" alt="Prashanth M - Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prashanth M</h1>
@@ -22,42 +22,67 @@
 
 ## 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🔹 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔹 Frameworks & Libraries
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### 🔹 Tools & Platforms
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Git Bash](https://img.shields.io/badge/GitBash-353535?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+### 🔹 Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ---
 
 ## 📌 Featured Projects
 
 🔗 [**Sentiment-Aware Fake News Detection using Blockchain**](https://github.com/prashanthpmg/Sentiment-Aware-FakeNews-Detection-Using-Blockchain)  
-A hybrid ML+Blockchain app for flagging and securing fake news records.
+> A hybrid ML+Blockchain app for flagging and securing fake news records.
 
 🔗 [**AI Medical Report Summarizer**](https://github.com/prashanthpmg/AI-Medical-Summarization)  
-Summarizes medical PDFs using BART Transformers and regex-driven data extraction.
+> Summarizes medical PDFs using BART Transformers and regex-driven data extraction.
 
 🔗 [**Hostel Management System**](https://github.com/prashanthpmg/Hostel-Management-System)  
-Java + MySQL based system to manage student hostels, logins, and data records.
+> Java + MySQL based system to manage student hostels, logins, and data records.
 
 ---
 
 ## 🏅 Certifications
 
-- 🧠 **Cloud Computing** - NPTEL, IIT Kharagpur  
-- 📈 **Digital Marketing** - EXCELR  
+- 🧠 **Cloud Computing** – NPTEL, IIT Kharagpur  
+- 📈 **Digital Marketing** – EXCELR  
 
 ---
 
 ## 🏆 Achievements
 
-- 👨‍💻 **FOSSHACK 2025**, PESITM  
-- 🤖 **INCIDENT ROBOTHON 2025**, NITK Surathkal  
-- 🎮 Runner-up, **Sukalpa Free Fire Tournament**, GMIT Davangere
+- 👨‍💻 Participated in **FOSSHACK 2025**, PESITM  
+- 🤖 Competed in **INCIDENT ROBOTHON 2025**, NITK Surathkal  
+- 🥈 Runner-up – **Sukalpa Free Fire E-Sports Tournament**, GMIT Davangere
 
 ---
 
@@ -82,3 +107,6 @@ Java + MySQL based system to manage student hostels, logins, and data records.
 
 ---
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
