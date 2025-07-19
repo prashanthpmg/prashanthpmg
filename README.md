@@ -1,50 +1,87 @@
-Name: Prashanth M
-Degree: Bachelor of Engineering (B.E.)
-Branch: Information Science and Engineering
-College/University: PES Institue Of Technology And Management Shivamogga
-Year of Study: Pre-Final Year (3rd Year)
-Graduation Year:  2026
-CGPA/Percentage: 7.0
-Email: prashanthmshiralagi@gmail.com
-LinkedIn: www.linkedin.com/in/prashanth-m-7067322aa
-GitHub/Portfolio:
+<p align="center">
+  <img src="https://github.com/prashanthpmg/prashanthpmg/blob/main/assets/banner.png" alt="Prashanth M - Banner" width="100%" />
+</p>
 
-Career Objective
-A highly motivated and technically proficient Pre-final year engineering student with a strong foundation in core area of interest such as software development, machine learning, data analytics, etc., seeking opportunities to apply my skills through internships, live projects, or research engagements. Eager to contribute to impactful solutions while continuously learning and evolving in a dynamic environment.
+<h1 align="center">Hi 👋, I'm Prashanth M</h1>
 
-Technical Skills
-Programming Languages: Java, Python, C, JavaScript
+<p align="center">
+  <b>Full Stack Developer | AI/ML Enthusiast | Blockchain Explorer</b><br>
+  <i>Passionate about solving real-world problems using modern technologies.</i>
+</p>
 
-Web Technologies: HTML, CSS, React.js, Node.js
+---
 
-Database Systems: MySQL, MongoDB
+## 🚀 About Me
 
-Tools & Platforms: Git, XAMPP, VS Code,
+🎓 Final-year Information Science & Engineering student at **P.E.S. Institute of Technology and Management, Shimoga**  
+💡 I enjoy building full-stack applications, integrating ML models, and developing secure blockchain solutions.  
+🌱 Currently learning: `Spring Boot`, `Microservices`, `DevOps`, `Advanced AI systems`  
+🛠️ Exploring innovations in `Healthcare AI`, `Fake News Detection`, and `Open Source Contribution`
 
-Core Subjects: Data Structures and Algorithms, Operating Systems, DBMS, Computer Networks
+---
 
-Frameworks/Libraries: Bootstrap, Express.js, 
+## 🧰 Tech Stack
 
-Academic Projects
-1. Project Title – Short Description
-Tools/Tech Stack used, Problem Statement, Outcomes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-2. Project Title – Short Description
-Tools/Tech Stack used, Problem Statement, Outcomes
+---
 
-Certifications & Courses
-[Course Name – Platform – Completion Date]
-(e.g., Python for Everybody – Coursera – July 2024)
+## 📌 Featured Projects
 
-[Another relevant certification]
+🔗 [**Sentiment-Aware Fake News Detection using Blockchain**](https://github.com/prashanthpmg/Sentiment-Aware-FakeNews-Detection-Using-Blockchain)  
+A hybrid ML+Blockchain app for flagging and securing fake news records.
 
-Achievements & Extra-Curricular Activities
-Participated in TCS CodeVita / Smart India Hackathon / IEEE Paper Presentation
+🔗 [**AI Medical Report Summarizer**](https://github.com/prashanthpmg/AI-Medical-Summarization)  
+Summarizes medical PDFs using BART Transformers and regex-driven data extraction.
 
-Member of Coding Club / Developer Student Clubs (DSC)
+🔗 [**Hostel Management System**](https://github.com/prashanthpmg/Hostel-Management-System)  
+Java + MySQL based system to manage student hostels, logins, and data records.
 
-Won [Award/Competition Name] – [Year]
+---
 
-Areas of Interest
-Full Stack Web Development
-Software Engineering & DevOps
+## 🏅 Certifications
+
+- 🧠 **Cloud Computing** - NPTEL, IIT Kharagpur  
+- 📈 **Digital Marketing** - EXCELR  
+
+---
+
+## 🏆 Achievements
+
+- 👨‍💻 **FOSSHACK 2025**, PESITM  
+- 🤖 **INCIDENT ROBOTHON 2025**, NITK Surathkal  
+- 🎮 Runner-up, **Sukalpa Free Fire Tournament**, GMIT Davangere
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanthpmg&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashanthpmg&theme=tokyonight&hide_border=false" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthpmg&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/prashanth-m-pmg37)
+- 📧 [Email](mailto:prashanthmshiralagi@gmail.com)
+- 🧑‍💻 [GitHub](https://github.com/prashanthpmg)
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
