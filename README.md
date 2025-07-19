@@ -82,6 +82,3 @@ Java + MySQL based system to manage student hostels, logins, and data records.
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
