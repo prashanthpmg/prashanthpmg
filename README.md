@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""E:\User Files\Downloads\Github-banner.png"" alt="Prashanth M - Banner" width="100%" />
+  <img src=""https://github.com/prashanthpmg/banner.png.git"" alt="Prashanth M - Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prashanth M</h1>
