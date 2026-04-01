@@ -11,118 +11,136 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-Results-driven **Java Full Stack Developer** with hands-on experience in architecting and deploying scalable web applications using **Spring Boot, JSP/Servlets, and MySQL**. Strong expertise in **RESTful API design, database optimization, and system performance enhancement**.
+🎓 Final-year Information Science & Engineering student at **P.E.S. Institute of Technology and Management, Shimoga**
+💡 Passionate about building full-stack applications, integrating AI/ML models, and developing secure blockchain solutions
+🌱 Currently learning: `Spring Boot`, `Microservices`, `DevOps`, `Advanced AI Systems`
+🛠️ Exploring innovations in `Healthcare AI`, `Fake News Detection`, and `Open Source Contribution`
 
-Demonstrated capability in integrating **AI/ML models and Blockchain technologies** to solve real-world challenges such as **fake news detection and healthcare data summarization**. :contentReference[oaicite:0]{index=0}
+---
+
+## 🧠 Professional Summary
+
+Results-driven **Java Full Stack Developer** with hands-on experience in building scalable applications using **Spring Boot, JSP/Servlets, and MySQL**. Strong expertise in **RESTful APIs, database optimization, and performance engineering**.
+
+Proven ability to integrate **AI/ML and Blockchain technologies** to deliver real-world solutions such as **fake news detection systems and medical data summarization platforms**.
 
 ---
 
 ## 🎯 Core Competencies
 
-- **Backend Engineering:** Spring Boot, Spring MVC, Hibernate, REST APIs  
-- **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, React.js  
-- **Database Management:** MySQL, MongoDB (optimized query design)  
-- **AI/ML Integration:** NLP, Transformers (BART), Data Processing  
-- **Blockchain Development:** Smart Contracts, Web3 Integration  
-- **Software Engineering:** MVC Architecture, OOP, DSA Optimization  
+* Backend Engineering: Spring Boot, Spring MVC, Hibernate, REST APIs
+* Frontend Development: HTML, CSS, Bootstrap, JavaScript, React.js
+* Database Management: MySQL, MongoDB
+* AI/ML Integration: NLP, Transformers (BART), Data Processing
+* Blockchain Development: Web3, Smart Contracts
+* Software Engineering: MVC Architecture, OOP, DSA Optimization
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Tech Stack
 
 ### 🔹 Languages
-`Java` | `C` | `JavaScript` | `Python` | `SQL`
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### 🔹 Frameworks & Libraries
-`Spring Boot` | `Spring MVC` | `Hibernate` | `React.js` | `Streamlit` | `Tkinter`
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?style=for-the-badge\&logo=python\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
 
 ### 🔹 Tools & Platforms
-`Git` | `GitHub` | `Postman` | `XAMPP` | `VS Code` | `IntelliJ` | `Eclipse`
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Git Bash](https://img.shields.io/badge/GitBash-353535?style=for-the-badge\&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge\&logo=apache-netbeans-ide\&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=xampp\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
 
 ### 🔹 Databases
-`MySQL` | `MongoDB`
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 
 ---
 
-## 📌 Key Projects
+## 📌 Featured Projects
 
-### 🔗 Sentiment-Aware Fake News Detection using Blockchain
-- Designed an **AI + Blockchain hybrid system** for identifying and securing fake news.
-- Implemented **NLP-based sentiment analysis** and classification pipeline.
-- Integrated **blockchain for immutable storage**, ensuring transparency and tamper-proof verification.
-- Improved trust and reliability of news validation systems.
+🔗 **Sentiment-Aware Fake News Detection using Blockchain**
 
----
+> AI + Blockchain system for detecting and securely storing fake news data.
 
-### 🔗 AI Medical Report Summarizer
-- Developed an **automated summarization system** using **BART Transformers**.
-- Extracted structured insights from medical PDFs using **regex + NLP pipelines**.
-- Enhanced accessibility of healthcare data for faster clinical decision-making.
+🔗 **AI Medical Report Summarizer**
 
----
+> Automated summarization of medical reports using BART Transformers.
 
-### 🔗 HR Management System
-- Built a **full-stack enterprise HR platform** using **JSP, Servlets, and MySQL**.
-- Implemented:
-  - Role-based authentication  
-  - Leave & attendance tracking  
-  - Payroll automation  
-- Followed **MVC architecture** ensuring scalability and maintainability.
+🔗 **HR Management System**
+
+> Enterprise system with authentication, payroll, attendance, and leave tracking.
+
+🔗 **Hostel Management System**
+
+> Web-based system for student and room management with MySQL integration.
 
 ---
 
-### 🔗 Hostel Management System
-- Developed a **web-based management system** for student accommodation.
-- Enabled:
-  - Student registration  
-  - Room allocation  
-  - Admin controls  
-- Achieved efficient **data handling with MySQL integration**.
+## 💼 Experience
 
----
+**Java Full Stack Developer Intern**
+📍 Dhee Coding Lab | Feb 2026 – Present
 
-## 💼 Professional Experience
-
-**Java Full Stack Developer Intern**  
-📍 Dhee Coding Lab | Feb 2026 – Present  
-
-- Developing **scalable enterprise-grade applications** using Spring Boot and Hibernate  
-- Designing responsive UI with **React.js and modern frontend practices**  
-- Applying **DSA-based optimization techniques** to improve performance  
-- Integrating **Generative AI features** into production workflows :contentReference[oaicite:1]{index=1}  
+* Developing scalable applications using Spring Boot & Hibernate
+* Building responsive UI using React.js
+* Optimizing performance using DSA techniques
+* Integrating AI features into production systems
 
 ---
 
 ## 🎓 Education
 
-🎓 B.E. in Information Science & Engineering  
-📍 P.E.S. Institute of Technology and Management, Shivamogga  
-📊 CGPA: 7.5  
+🎓 B.E. – Information Science & Engineering
+📍 P.E.S Institute of Technology and Management, Shivamogga
+📊 CGPA: 7.5
 
 ---
 
 ## 🏅 Certifications
 
-- 🧠 **Cloud Computing – NPTEL (IIT Kharagpur)**  
-- 💻 **Java Full Stack Development – Innovant IT Solutions**
+🧠 Cloud Computing – NPTEL (IIT Kharagpur)
+💻 Java Full Stack Development – Innovant IT Solutions
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
-- 🧑‍💻 Contributor – **FOSSHACK 2025 (Open Source Development)**  
-- 📄 Research Presenter – **AVISHKAR 2.0 (AI Conference)**  
-- 🤖 Participant – **INCIDENT ROBOTHON 2025 (NITK Surathkal)**  
+👨‍💻 FOSSHACK 2025 – Open Source Contributor
+📄 AVISHKAR 2.0 – Research Presenter
+🤖 INCIDENT ROBOTHON 2025 – Participant
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashanthpmg&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashanthpmg&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashanthpmg&theme=tokyonight&hide_border=false" width="49%" />
 </p>
 
 <p align="center">
@@ -131,16 +149,16 @@ Demonstrated capability in integrating **AI/ML models and Blockchain technologie
 
 ---
 
-## 📫 Contact & Networking
+## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/prashanth-m-pmg37  
-- 📧 Email: prashanthmshiralagi@gmail.com  
-- 💻 GitHub: https://github.com/prashanthpmg  
+* 🔗 LinkedIn: https://linkedin.com/in/prashanth-m-pmg37
+* 📧 Email: [prashanthmshiralagi@gmail.com](mailto:prashanthmshiralagi@gmail.com)
+* 💻 GitHub: https://github.com/prashanthpmg
 
 ---
 
-## 💡 Vision Statement
+## 💡 Vision
 
-> To engineer intelligent, scalable, and secure systems that bridge the gap between **AI innovation, enterprise software, and decentralized technologies**.
+> To build scalable, intelligent, and secure systems that integrate **AI, enterprise software, and blockchain technologies**.
 
 ---
