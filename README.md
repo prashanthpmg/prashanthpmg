@@ -5,92 +5,124 @@
 <h1 align="center">Hi 👋, I'm Prashanth M</h1>
 
 <p align="center">
-  <b>Full Stack Developer | AI/ML Enthusiast | Blockchain Explorer</b><br>
-  <i>Passionate about solving real-world problems using modern technologies.</i>
+  <b>Java Full Stack Developer | AI/ML Engineer | Blockchain Enthusiast</b><br>
+  <i>Delivering scalable, secure, and intelligent software solutions with measurable impact.</i>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-🎓 Final-year Information Science & Engineering student at **P.E.S. Institute of Technology and Management, Shimoga**  
-💡 I enjoy building full-stack applications, integrating ML models, and developing secure blockchain solutions.  
-🌱 Currently learning: `Spring Boot`, `Microservices`, `DevOps`, `Advanced AI systems`  
-🛠️ Exploring innovations in `Healthcare AI`, `Fake News Detection`, and `Open Source Contribution`
+Results-driven **Java Full Stack Developer** with hands-on experience in architecting and deploying scalable web applications using **Spring Boot, JSP/Servlets, and MySQL**. Strong expertise in **RESTful API design, database optimization, and system performance enhancement**.
+
+Demonstrated capability in integrating **AI/ML models and Blockchain technologies** to solve real-world challenges such as **fake news detection and healthcare data summarization**. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🧰 Tech Stack
+## 🎯 Core Competencies
+
+- **Backend Engineering:** Spring Boot, Spring MVC, Hibernate, REST APIs  
+- **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, React.js  
+- **Database Management:** MySQL, MongoDB (optimized query design)  
+- **AI/ML Integration:** NLP, Transformers (BART), Data Processing  
+- **Blockchain Development:** Smart Contracts, Web3 Integration  
+- **Software Engineering:** MVC Architecture, OOP, DSA Optimization  
+
+---
+
+## 🧰 Technology Stack
 
 ### 🔹 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+`Java` | `C` | `JavaScript` | `Python` | `SQL`
 
 ### 🔹 Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+`Spring Boot` | `Spring MVC` | `Hibernate` | `React.js` | `Streamlit` | `Tkinter`
 
 ### 🔹 Tools & Platforms
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Git Bash](https://img.shields.io/badge/GitBash-353535?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+`Git` | `GitHub` | `Postman` | `XAMPP` | `VS Code` | `IntelliJ` | `Eclipse`
 
 ### 🔹 Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+`MySQL` | `MongoDB`
 
 ---
 
-## 📌 Featured Projects
+## 📌 Key Projects
 
-🔗 [**Sentiment-Aware Fake News Detection using Blockchain**](https://github.com/prashanthpmg/Sentiment-Aware-FakeNews-Detection-Using-Blockchain)  
-> A hybrid ML+Blockchain app for flagging and securing fake news records.
+### 🔗 Sentiment-Aware Fake News Detection using Blockchain
+- Designed an **AI + Blockchain hybrid system** for identifying and securing fake news.
+- Implemented **NLP-based sentiment analysis** and classification pipeline.
+- Integrated **blockchain for immutable storage**, ensuring transparency and tamper-proof verification.
+- Improved trust and reliability of news validation systems.
 
-🔗 [**AI Medical Report Summarizer**](https://github.com/prashanthpmg/AI-Medical-Summarization)  
-> Summarizes medical PDFs using BART Transformers and regex-driven data extraction.
+---
 
-🔗 [**Hostel Management System**](https://github.com/prashanthpmg/Hostel-Management-System)  
-> Java + MySQL based system to manage student hostels, logins, and data records.
+### 🔗 AI Medical Report Summarizer
+- Developed an **automated summarization system** using **BART Transformers**.
+- Extracted structured insights from medical PDFs using **regex + NLP pipelines**.
+- Enhanced accessibility of healthcare data for faster clinical decision-making.
+
+---
+
+### 🔗 HR Management System
+- Built a **full-stack enterprise HR platform** using **JSP, Servlets, and MySQL**.
+- Implemented:
+  - Role-based authentication  
+  - Leave & attendance tracking  
+  - Payroll automation  
+- Followed **MVC architecture** ensuring scalability and maintainability.
+
+---
+
+### 🔗 Hostel Management System
+- Developed a **web-based management system** for student accommodation.
+- Enabled:
+  - Student registration  
+  - Room allocation  
+  - Admin controls  
+- Achieved efficient **data handling with MySQL integration**.
+
+---
+
+## 💼 Professional Experience
+
+**Java Full Stack Developer Intern**  
+📍 Dhee Coding Lab | Feb 2026 – Present  
+
+- Developing **scalable enterprise-grade applications** using Spring Boot and Hibernate  
+- Designing responsive UI with **React.js and modern frontend practices**  
+- Applying **DSA-based optimization techniques** to improve performance  
+- Integrating **Generative AI features** into production workflows :contentReference[oaicite:1]{index=1}  
+
+---
+
+## 🎓 Education
+
+🎓 B.E. in Information Science & Engineering  
+📍 P.E.S. Institute of Technology and Management, Shivamogga  
+📊 CGPA: 7.5  
 
 ---
 
 ## 🏅 Certifications
 
-- 🧠 **Cloud Computing** – NPTEL, IIT Kharagpur  
-- 📈 **Digital Marketing** – EXCELR  
+- 🧠 **Cloud Computing – NPTEL (IIT Kharagpur)**  
+- 💻 **Java Full Stack Development – Innovant IT Solutions**
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
-- 👨‍💻 Participated in **FOSSHACK 2025**, PESITM  
-- 🤖 Competed in **INCIDENT ROBOTHON 2025**, NITK Surathkal  
-- 🥈 Runner-up – **Sukalpa Free Fire E-Sports Tournament**, GMIT Davangere
+- 🧑‍💻 Contributor – **FOSSHACK 2025 (Open Source Development)**  
+- 📄 Research Presenter – **AVISHKAR 2.0 (AI Conference)**  
+- 🤖 Participant – **INCIDENT ROBOTHON 2025 (NITK Surathkal)**  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashanthpmg&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashanthpmg&theme=tokyonight&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashanthpmg&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
@@ -99,11 +131,16 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact & Networking
 
-- 🔗 [LinkedIn](https://linkedin.com/in/prashanth-m-pmg37)
-- 📧 [Email](mailto:prashanthmshiralagi@gmail.com)
-- 🧑‍💻 [GitHub](https://github.com/prashanthpmg)
+- 🔗 LinkedIn: https://linkedin.com/in/prashanth-m-pmg37  
+- 📧 Email: prashanthmshiralagi@gmail.com  
+- 💻 GitHub: https://github.com/prashanthpmg  
 
 ---
 
+## 💡 Vision Statement
+
+> To engineer intelligent, scalable, and secure systems that bridge the gap between **AI innovation, enterprise software, and decentralized technologies**.
+
+---
